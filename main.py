@@ -5,7 +5,7 @@ import pickle
 from django.conf import settings
 import os
 from pathlib import Path
-import cv2
+# import cv2
 import numpy as np
 
 import pathlib

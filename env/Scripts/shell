@@ -1,0 +1,2 @@
+#!D:\FakeCurrencyDetector\env\Scripts\python.exe
+from Mypackage import Myshell
